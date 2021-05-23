@@ -1,0 +1,1 @@
+# After Resolving Dependency Insert default sql into postgresql. sql located into resource folder.
